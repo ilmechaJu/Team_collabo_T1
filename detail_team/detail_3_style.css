@@ -242,49 +242,8 @@
 .group-42 {
   flex-shrink: 0;
   width: 807.98px;
-  height: 1009.84px;
+  height: 982.55px;
   position: static;
-}
-.frame-22 {
-  width: 228px;
-  height: 52px;
-  position: absolute;
-  left: 346.02px;
-  top: 1016.92px;
-  overflow: hidden;
-}
-.rectangle-6 {
-  background: #333333;
-  border-radius: 26px;
-  width: 228px;
-  height: 52px;
-  position: absolute;
-  left: 0px;
-  top: 0px;
-}
-.group-21 {
-  position: absolute;
-  inset: 0;
-}
-.read-more {
-  color: #ffffff;
-  text-align: left;
-  font-family: "Roboto-Medium", sans-serif;
-  font-size: 16px;
-  font-weight: 500;
-  position: absolute;
-  left: 50.61px;
-  top: 16.33px;
-  width: 95.95px;
-  height: 20.65px;
-}
-.ant-design-arrow-right-outlined {
-  width: 28.29px;
-  height: 25px;
-  position: absolute;
-  left: 161.32px;
-  top: 14.16px;
-  overflow: visible;
 }
 .frame-42 {
   padding: 20px 0px 20px 0px;
@@ -296,7 +255,7 @@
   height: 458px;
   position: absolute;
   left: 346.46px;
-  top: 583.63px;
+  top: 597.28px;
   overflow: hidden;
 }
 .group-40 {
@@ -387,7 +346,7 @@
   height: 458px;
   position: absolute;
   left: 346.06px;
-  top: 143.42px;
+  top: 157.07px;
   overflow: hidden;
 }
 .group-402 {
@@ -463,7 +422,7 @@
   height: 84px;
   position: absolute;
   left: 346.01px;
-  top: 59.08px;
+  top: 72.72px;
 }
 .div3 {
   color: #333333;
@@ -548,32 +507,55 @@
   left: 0px;
   top: 178px;
 }
-.frame-427318911 {
-  align-self: stretch;
-  flex-shrink: 0;
-  height: 627px;
-  position: relative;
-  overflow: hidden;
-}
-.frame-427318924 {
-  display: flex;
-  flex-direction: row;
-  gap: 119px;
-  align-items: center;
-  justify-content: flex-start;
-  position: absolute;
-  left: 125px;
-  top: 61px;
-}
-.frame-427318923 {
+.frame-812 {
   display: flex;
   flex-direction: column;
-  gap: 22px;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 1500px;
+  position: relative;
+}
+.group-81 {
+  flex-shrink: 0;
+  width: 1500px;
+  height: 581px;
+  position: static;
+}
+.frame-427318916 {
+  width: 1500px;
+  height: 581px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+.frame-427318966 {
+  width: 1298.19px;
+  height: 459px;
+  position: absolute;
+  left: 81px;
+  top: 55px;
+}
+.frame-427318983 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 1298px;
+  position: absolute;
+  left: 0px;
+  top: -5px;
+}
+.frame-427318965 {
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
   align-items: flex-start;
   justify-content: flex-start;
   flex-shrink: 0;
-  width: 721px;
-  height: 525px;
+  width: 657px;
   position: relative;
 }
 .our-team {
@@ -585,15 +567,14 @@
   position: relative;
   align-self: stretch;
 }
-.frame-427318922 {
+.frame-427318964 {
   display: flex;
   flex-direction: column;
-  gap: 21px;
+  gap: 20px;
   align-items: flex-start;
   justify-content: flex-start;
   align-self: stretch;
   flex-shrink: 0;
-  height: 483px;
   position: relative;
 }
 .div4 {
@@ -604,128 +585,136 @@
   font-weight: 500;
   position: relative;
   align-self: stretch;
-  height: 76px;
+  height: 70px;
 }
-.frame-427318921 {
+.frame-427318963 {
   display: flex;
   flex-direction: column;
-  gap: 20px;
+  gap: 15px;
   align-items: flex-start;
   justify-content: flex-start;
-  align-self: stretch;
   flex-shrink: 0;
-  height: 386px;
+  width: 565px;
   position: relative;
 }
 .div5 {
-  color: #515050;
+  color: #000000;
   text-align: left;
   font-family: "-", sans-serif;
   font-size: 16px;
   font-weight: 400;
   position: relative;
-  width: 621px;
+  width: 553px;
 }
 .div-5-span {
-  color: #515050;
+  color: #000000;
   font-family: "Roboto-Bold", sans-serif;
   font-size: 16px;
   font-weight: 700;
 }
 .div-5-span2 {
-  color: #515050;
+  color: #000000;
   font-family: "Roboto-Regular", sans-serif;
   font-size: 16px;
   font-weight: 400;
 }
 .div6 {
-  color: #515050;
+  color: #000000;
   text-align: left;
   font-family: "-", sans-serif;
   font-size: 16px;
   font-weight: 400;
   position: relative;
-  width: 621px;
-  height: 40px;
+  width: 494px;
+  height: 44px;
 }
 .div-6-span {
-  color: #515050;
+  color: #000000;
   font-family: "Roboto-Bold", sans-serif;
   font-size: 16px;
   font-weight: 700;
 }
 .div-6-span2 {
-  color: #515050;
+  color: #000000;
   font-family: "Roboto-Regular", sans-serif;
   font-size: 16px;
   font-weight: 400;
 }
 .mbti-enfj-infj {
-  color: #515050;
+  color: #000000;
   text-align: left;
   font-family: "-", sans-serif;
   font-size: 16px;
   font-weight: 400;
   position: relative;
-  width: 621px;
-  height: 40px;
+  width: 494px;
+  height: 44px;
 }
 .mbti-enfj-infj-span {
-  color: #515050;
+  color: #000000;
   font-family: "Roboto-Bold", sans-serif;
   font-size: 16px;
   font-weight: 700;
 }
 .mbti-enfj-infj-span2 {
-  color: #515050;
+  color: #000000;
   font-family: "Roboto-Regular", sans-serif;
   font-size: 16px;
   font-weight: 400;
 }
 .div-6-span3 {
-  color: #515050;
+  color: #000000;
   font-family: "Roboto-Bold", sans-serif;
   font-size: 16px;
   font-weight: 700;
 }
 .div-6-span4 {
-  color: #515050;
+  color: #000000;
   font-family: "Roboto-Regular", sans-serif;
   font-size: 16px;
   font-weight: 400;
 }
 .div7 {
-  color: #515050;
+  color: #000000;
   text-align: left;
   font-family: "-", sans-serif;
   font-size: 16px;
   font-weight: 400;
   position: relative;
   align-self: stretch;
+  height: 58px;
 }
 .div-7-span {
-  color: #515050;
+  color: #000000;
   font-family: "Roboto-Bold", sans-serif;
   font-size: 16px;
   font-weight: 700;
 }
 .div-7-span2 {
-  color: #515050;
+  color: #000000;
   font-family: "Roboto-Regular", sans-serif;
   font-size: 16px;
   font-weight: 400;
 }
-.frame-427318974 {
+.mask-group5 {
   flex-shrink: 0;
+  width: 462px;
+  height: 459px;
+  position: relative;
+  overflow: visible;
+}
+.frame-427318977 {
   width: 229px;
   height: 52px;
-  position: relative;
+  position: absolute;
+  left: 81px;
+  top: 509px;
 }
 .group-15 {
   position: absolute;
   inset: 0;
 }
-.rectangle-62 {
+.rectangle-6 {
   background: #333333;
   border-radius: 26px;
   width: 229px;
@@ -751,19 +740,12 @@
   width: 109px;
   height: 19px;
 }
-.ant-design-arrow-right-outlined2 {
+.ant-design-arrow-right-outlined {
   width: 23px;
   height: 23px;
   position: absolute;
   left: 165px;
   top: 15px;
-  overflow: visible;
-}
-.mask-group5 {
-  flex-shrink: 0;
-  width: 410px;
-  height: 459px;
-  position: relative;
   overflow: visible;
 }
 .frame-427318931 {
@@ -872,7 +854,7 @@
 }
 .our-team2 {
   color: #3a3a3a;
-  text-align: left;
+  text-align: center;
   font-family: "Roboto-Medium", sans-serif;
   font-size: 16px;
   font-weight: 500;
@@ -910,13 +892,13 @@
   width: 123px;
   position: relative;
 }
-.frame-427318964 {
+.frame-4273189642 {
   flex-shrink: 0;
   width: 123px;
   height: 34px;
   position: relative;
 }
-.frame-427318966 {
+.frame-4273189662 {
   width: 123px;
   height: 34px;
   position: absolute;
@@ -939,7 +921,7 @@
   top: 7px;
   overflow: visible;
 }
-.frame-427318965 {
+.frame-4273189652 {
   width: 62px;
   height: 21px;
   position: absolute;
