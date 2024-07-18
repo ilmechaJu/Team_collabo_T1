@@ -22,7 +22,7 @@
   width: 1500px;
   height: 469px;
   position: absolute;
-  left: 4px;
+  left: 0px;
   top: 2031px;
 }
 .rectangle-8 {
@@ -41,8 +41,8 @@
   width: 1316px;
   height: 351px;
   position: absolute;
-  left: 92px;
-  top: 83px;
+  left: 93px;
+  top: 84px;
   overflow: hidden;
 }
 .frame-427318969 {
@@ -90,12 +90,6 @@
   font-weight: 400;
 }
 .vlog-https-ilmechaju-tistory-com-span4 {
-  color: #ffffff;
-  font-family: "Roboto-Regular", sans-serif;
-  font-size: 25px;
-  font-weight: 400;
-}
-.vlog-https-ilmechaju-tistory-com-span5 {
   color: #ffffff;
   font-family: "Roboto-Regular", sans-serif;
   font-size: 25px;
@@ -231,8 +225,8 @@
   font-size: 25px;
   font-weight: 400;
   position: absolute;
-  left: 89px;
-  top: 33px;
+  left: 90px;
+  top: 34px;
   width: 451px;
   height: 41px;
 }
@@ -251,49 +245,8 @@
 .group-42 {
   flex-shrink: 0;
   width: 807.98px;
-  height: 1009.84px;
+  height: 982.55px;
   position: static;
-}
-.frame-22 {
-  width: 228px;
-  height: 52px;
-  position: absolute;
-  left: 346.02px;
-  top: 1016.92px;
-  overflow: hidden;
-}
-.rectangle-6 {
-  background: #333333;
-  border-radius: 26px;
-  width: 228px;
-  height: 52px;
-  position: absolute;
-  left: 0px;
-  top: 0px;
-}
-.group-21 {
-  position: absolute;
-  inset: 0;
-}
-.read-more {
-  color: #ffffff;
-  text-align: left;
-  font-family: "Roboto-Medium", sans-serif;
-  font-size: 16px;
-  font-weight: 500;
-  position: absolute;
-  left: 50.61px;
-  top: 16.33px;
-  width: 95.95px;
-  height: 20.65px;
-}
-.ant-design-arrow-right-outlined {
-  width: 28.29px;
-  height: 25px;
-  position: absolute;
-  left: 161.32px;
-  top: 14.16px;
-  overflow: visible;
 }
 .frame-42 {
   padding: 20px 0px 20px 0px;
@@ -305,7 +258,7 @@
   height: 458px;
   position: absolute;
   left: 346.46px;
-  top: 583.63px;
+  top: 597.28px;
   overflow: hidden;
 }
 .group-40 {
@@ -396,7 +349,7 @@
   height: 458px;
   position: absolute;
   left: 346.06px;
-  top: 143.42px;
+  top: 157.07px;
   overflow: hidden;
 }
 .group-402 {
@@ -472,7 +425,7 @@
   height: 84px;
   position: absolute;
   left: 346.01px;
-  top: 59.08px;
+  top: 72.72px;
 }
 .div3 {
   color: #333333;
@@ -498,46 +451,25 @@
   width: 102px;
   height: 27px;
 }
-.frame-427318930 {
-  display: flex;
-  flex-direction: column;
-  gap: 0px;
-  align-items: center;
-  justify-content: center;
+.rectangle-1 {
+  background: #ffffff;
   width: 1500px;
+  height: 135px;
   position: absolute;
   left: 0px;
   top: 0px;
 }
-.frame-72 {
-  display: flex;
-  flex-direction: column;
-  gap: 0px;
-  align-items: flex-start;
-  justify-content: flex-start;
-  align-self: stretch;
-  flex-shrink: 0;
-  position: relative;
-}
-.rectangle-1 {
-  background: #ffffff;
-  align-self: stretch;
-  flex-shrink: 0;
-  height: 135px;
-  position: relative;
-}
 .rectangle-2 {
-  flex-shrink: 0;
   width: 1500px;
   height: 768px;
-  position: relative;
+  position: absolute;
+  left: 0px;
+  top: 135px;
   overflow: visible;
 }
 .group-2 {
-  flex-shrink: 0;
-  width: 454.69px;
-  height: 17.72px;
-  position: static;
+  position: absolute;
+  inset: 0;
 }
 .frame-12 {
   width: 454.69px;
@@ -546,21 +478,21 @@
   left: 522.66px;
   top: 46.62px;
 }
-.frame-81 {
+.frame-427318988 {
   display: flex;
   flex-direction: column;
-  gap: 10px;
-  align-items: center;
-  justify-content: center;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
   width: 1500px;
   position: absolute;
   left: 0px;
-  top: 178px;
+  top: 194px;
 }
 .frame-427318911 {
   align-self: stretch;
   flex-shrink: 0;
-  height: 627px;
+  height: 504px;
   position: relative;
   overflow: hidden;
 }
@@ -569,10 +501,20 @@
   flex-direction: row;
   gap: 119px;
   align-items: center;
-  justify-content: flex-start;
+  justify-content: center;
+  width: 1500px;
+  height: 472px;
   position: absolute;
-  left: 125px;
-  top: 61px;
+  left: 0px;
+  top: 32px;
+}
+.frame-427318975 {
+  flex-shrink: 0;
+  width: 229px;
+  height: 54px;
+  position: absolute;
+  left: -90.5px;
+  top: 209px;
 }
 .frame-427318923 {
   display: flex;
@@ -581,8 +523,8 @@
   align-items: flex-start;
   justify-content: flex-start;
   flex-shrink: 0;
-  width: 721px;
-  height: 525px;
+  width: 804px;
+  height: 422px;
   position: relative;
 }
 .our-team {
@@ -602,7 +544,6 @@
   justify-content: flex-start;
   align-self: stretch;
   flex-shrink: 0;
-  height: 483px;
   position: relative;
 }
 .div4 {
@@ -618,126 +559,131 @@
 .frame-427318921 {
   display: flex;
   flex-direction: column;
-  gap: 20px;
+  gap: 15px;
   align-items: flex-start;
   justify-content: flex-start;
   align-self: stretch;
   flex-shrink: 0;
-  height: 386px;
   position: relative;
 }
 .backend-devops {
-  color: #515050;
+  color: #000000;
   text-align: left;
   font-family: "-", sans-serif;
   font-size: 16px;
   font-weight: 400;
   position: relative;
-  width: 621px;
+  width: 486px;
 }
 .backend-devops-span {
-  color: #515050;
+  color: #000000;
   font-family: "Roboto-Bold", sans-serif;
   font-size: 16px;
   font-weight: 700;
 }
 .backend-devops-span2 {
-  color: #515050;
+  color: #000000;
   font-family: "Roboto-Regular", sans-serif;
   font-size: 16px;
   font-weight: 400;
 }
 .div5 {
-  color: #515050;
+  color: #000000;
   text-align: left;
   font-family: "-", sans-serif;
   font-size: 16px;
   font-weight: 400;
   position: relative;
-  width: 621px;
+  width: 540px;
   height: 40px;
 }
 .div-5-span {
-  color: #515050;
+  color: #000000;
   font-family: "Roboto-Bold", sans-serif;
   font-size: 16px;
   font-weight: 700;
 }
 .div-5-span2 {
-  color: #515050;
+  color: #000000;
   font-family: "Roboto-Regular", sans-serif;
   font-size: 16px;
   font-weight: 400;
 }
 .mbti-entj-enfp-eeee {
-  color: #515050;
+  color: #000000;
   text-align: left;
   font-family: "-", sans-serif;
   font-size: 16px;
   font-weight: 400;
   position: relative;
-  width: 621px;
+  width: 540px;
   height: 40px;
 }
 .mbti-entj-enfp-eeee-span {
-  color: #515050;
+  color: #000000;
   font-family: "Roboto-Bold", sans-serif;
   font-size: 16px;
   font-weight: 700;
 }
 .mbti-entj-enfp-eeee-span2 {
-  color: #515050;
+  color: #000000;
   font-family: "Roboto-Regular", sans-serif;
   font-size: 16px;
   font-weight: 400;
 }
 .div-5-span3 {
-  color: #515050;
+  color: #000000;
   font-family: "Roboto-Bold", sans-serif;
   font-size: 16px;
   font-weight: 700;
 }
 .div-5-span4 {
-  color: #515050;
+  color: #000000;
   font-family: "Roboto-Regular", sans-serif;
   font-size: 16px;
   font-weight: 400;
 }
 .error-push-merge {
-  color: #515050;
+  color: #000000;
   text-align: left;
   font-family: "-", sans-serif;
   font-size: 16px;
   font-weight: 400;
   position: relative;
   align-self: stretch;
+  height: 57px;
 }
 .error-push-merge-span {
-  color: #515050;
+  color: #000000;
   font-family: "Roboto-Bold", sans-serif;
   font-size: 16px;
   font-weight: 700;
 }
 .error-push-merge-span2 {
-  color: #515050;
+  color: #000000;
   font-family: "Roboto-Regular", sans-serif;
   font-size: 16px;
   font-weight: 400;
 }
-.group-15 {
+.mask-group5 {
   flex-shrink: 0;
-  width: 229px;
-  height: 52px;
-  position: static;
+  width: 410px;
+  height: 459px;
+  position: relative;
+  overflow: visible;
 }
-.rectangle-62 {
+.group-15 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-6 {
   background: #333333;
   border-radius: 26px;
   width: 229px;
   height: 52px;
   position: absolute;
-  left: 0px;
-  top: 334px;
+  left: 84px;
+  top: 719px;
 }
 .group-14 {
   width: 146px;
@@ -751,24 +697,17 @@
   font-size: 16px;
   font-weight: 500;
   position: absolute;
-  left: 42px;
-  top: 351px;
+  left: 126px;
+  top: 736px;
   width: 109px;
   height: 19px;
 }
-.ant-design-arrow-right-outlined2 {
+.ant-design-arrow-right-outlined {
   width: 23px;
   height: 23px;
   position: absolute;
-  left: 165px;
-  top: 349px;
-  overflow: visible;
-}
-.mask-group5 {
-  flex-shrink: 0;
-  width: 410px;
-  height: 459px;
-  position: relative;
+  left: 249px;
+  top: 734px;
   overflow: visible;
 }
 .frame-427318931 {
@@ -877,7 +816,7 @@
 }
 .our-team2 {
   color: #3a3a3a;
-  text-align: left;
+  text-align: center;
   font-family: "Roboto-Medium", sans-serif;
   font-size: 16px;
   font-weight: 500;
