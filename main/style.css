@@ -642,12 +642,7 @@
   width: 249px;
   height: 23px;
 }
-.group-15 {
-  flex-shrink: 0;
-  width: 229px;
-  height: 52px;
-  position: static;
-}
+
 .rectangle-65 {
   background: #333333;
   border-radius: 26px;
@@ -661,18 +656,6 @@
   width: 149px;
   height: 21.19px;
   position: static;
-}
-.book-a-session {
-  color: #ffffff;
-  text-align: left;
-  font-family: "Roboto-Medium", sans-serif;
-  font-size: 16px;
-  font-weight: 500;
-  position: absolute;
-  left: 39px;
-  top: 406.81px;
-  width: 109px;
-  height: 19px;
 }
 .ant-design-arrow-right-outlined7 {
   width: 23px;
