@@ -190,84 +190,62 @@
   width: 57px;
   height: 17.72px;
 }
-.frame-427318927 {
+.frame-427318933 {
   display: flex;
   flex-direction: row;
   gap: 9px;
   align-items: center;
   justify-content: flex-start;
   flex-shrink: 0;
+  width: 123px;
   position: relative;
 }
-.frame-10 {
-  border-radius: 15.76px;
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
-  align-items: center;
-  justify-content: center;
+.frame-427318964 {
   flex-shrink: 0;
-  width: 31.52px;
-  height: 31.52px;
-  position: relative;
-  overflow: visible;
-}
-.frame-11 {
-  background: #3a3a3a;
-  border-radius: 15.76px;
-  padding: 8px;
-  display: flex;
-  flex-direction: row;
-  gap: 10px;
-  align-items: center;
-  justify-content: flex-start;
-  flex-shrink: 0;
-  width: 31.52px;
-  height: 31.52px;
+  width: 123px;
+  height: 34px;
   position: relative;
 }
-.group-5 {
-  flex-shrink: 0;
-  width: 16.25px;
-  height: 16.25px;
-  position: static;
-}
-.grommet-icons-instagram {
-  width: 16.25px;
-  height: 16.25px;
+.frame-427318966 {
+  width: 123px;
+  height: 34px;
   position: absolute;
-  left: 8px;
-  top: 7.64px;
-  overflow: visible;
+  left: 0px;
+  top: 0px;
 }
-.entypo-social-twitter {
-  width: 13.54px;
-  height: 13.54px;
-  position: absolute;
-  left: 9.35px;
-  top: 8.99px;
-  overflow: hidden;
-}
-.frame-12 {
+.rectangle-23827 {
   background: #3a3a3a;
-  border-radius: 15.76px;
-  padding: 8px 11px 8px 11px;
-  display: flex;
-  flex-direction: row;
-  gap: 10px;
-  align-items: center;
-  justify-content: flex-start;
-  flex-shrink: 0;
-  width: 31.52px;
-  height: 31.52px;
-  position: relative;
+  border-radius: 15px;
+  width: 123px;
+  height: 34px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
 }
-.group {
-  flex-shrink: 0;
-  width: 8.89px;
-  height: 16.25px;
-  position: relative;
+.mask-group2 {
+  height: auto;
+  position: absolute;
+  left: 10px;
+  top: 7px;
   overflow: visible;
+}
+.frame-427318965 {
+  width: 62px;
+  height: 21px;
+  position: absolute;
+  right: 27px;
+  top: 6px;
+}
+.git-hub {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Roboto-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 62px;
 }
 .frame-822 {
   display: flex;
@@ -517,7 +495,7 @@
   top: 0px;
   overflow: hidden;
 }
-.frame-427318966 {
+.frame-4273189662 {
   width: 1298.19px;
   height: 459px;
   position: absolute;
@@ -534,7 +512,7 @@
   left: 0px;
   top: -5px;
 }
-.frame-427318965 {
+.frame-4273189652 {
   display: flex;
   flex-direction: column;
   gap: 18px;
@@ -553,7 +531,7 @@
   position: relative;
   align-self: stretch;
 }
-.frame-427318964 {
+.frame-4273189642 {
   display: flex;
   flex-direction: column;
   gap: 20px;
@@ -682,7 +660,7 @@
   font-size: 16px;
   font-weight: 400;
 }
-.mask-group2 {
+.mask-group3 {
   flex-shrink: 0;
   width: 462px;
   height: 459px;
